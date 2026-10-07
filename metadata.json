@@ -1,0 +1,6 @@
+{
+  "name": "Android Social Network",
+  "description": "An authentic Android-styled social network application featuring interactive feeds, stories, post creator, direct messaging, explore, notifications, and profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
